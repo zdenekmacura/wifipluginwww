@@ -16,7 +16,7 @@
   <author href="http://www.brrr.cz" email="zdenek.macura@email.cz">
       Zdenek Macura
   </author>
-  <content src="index.html" />
+  <content src="www/index.html" />
   <!--<gap:plugin name="cordova-plugin-whitelist" spec="1.1.0" />-->
   <gap:plugin name="cordova-plugin-whitelist" source="npm" spec="~1.2.1" />
   <gap:plugin name="com.pylonproducts.wifiwizard" spec="0.1.0" source="pgb" />
